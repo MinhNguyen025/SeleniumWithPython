@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Result](#result)
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -21,6 +22,10 @@ This project demonstrates automated testing of a simple login page using Seleniu
 4. **Empty Fields:** Test submitting the form with empty email and password fields.
 
 The project is structured using the **Page Object Model (POM)** for better maintainability and scalability. It leverages **Pytest** for organizing and running tests, **WebDriverWait** for handling dynamic content, and **webdriver-manager** for managing browser drivers.
+
+## Result
+![image](https://github.com/user-attachments/assets/3a1ff7bc-aa58-4314-abee-9dd5d4d57f5d)
+
 
 ## Project Structure
 
